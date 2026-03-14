@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Logs
+*.log
+
+# Configuration
+*.cfg
+*.ini
+
+# Sensitive files
+*.env
+*.pkl
+
+# Jupyter Notebook
+.ipynb_checkpoints/
